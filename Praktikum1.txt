@@ -1,3 +1,0 @@
-Bagas Fedlian Wicaksana : G.231.20.0166 : Semarang
-Mata Kuliah : Open Source System
-Catatan : Praktikum dengan menggunakan GIT
